@@ -1,6 +1,6 @@
 # My Personal Website
 ## Hi, I'm Prashant 
-## A Simple Number Guessing Game. You will be given 5 chances to guess a number...
+## This Website Using Html, Css and JavaScript, With a beautiful user interface. It contains a Header, Home, About, Skills, Gallery and Contact.... 
 <br>
 
 ## [View Demo](https://prashantsingh20.github.io/My-Personal-Website/)
@@ -21,7 +21,7 @@ If you have any crazy idea then please pull request...
 
  ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
  ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
- ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+ ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 </p>
 
  ## Cloning this repositary using command line
