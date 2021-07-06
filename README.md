@@ -1,7 +1,7 @@
 # My Personal Website
 ## Hi, I'm Prashant
 
-##### This Website Using Html, Css and JavaScript, With a beautiful user interface. It contains a Header, Home, About, Skills, Gallery and Contact....
+#### This Website Using Html, Css and JavaScript, With a beautiful user interface. It contains a Header, Home, About, Skills, Gallery and Contact....
 <br>
 
 ## [View Demo](https://prashantsingh20.github.io/My-Personal-Website/)
