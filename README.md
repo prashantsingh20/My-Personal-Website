@@ -21,18 +21,15 @@ If you have any crazy idea then please pull request...
 
  ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
  ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
- ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
+ ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 </p>
 
-```
  ## Cloning this repositary using command line
  1. Open **Git Bash**.
  1. Change the current working directory to the location where you want the cloned directory.
- 1. Type `git clone https://github.com/prashantsingh20/Number-guessing-game.git`
+ 1. Type `git clone https://github.com/prashantsingh20/My-Personal-Website.git`
  1. Press **Enter** to create the clone of this repositary.
- `
+ 
 
 
  ## How to reach me?
