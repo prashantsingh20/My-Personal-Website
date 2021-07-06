@@ -1,6 +1,6 @@
 # My Personal Website
 ## Hi, I'm Prashant 
-## This Website Using Html, Css and JavaScript, With a beautiful user interface. It contains a Header, Home, About, Skills, Gallery and Contact.... 
+<h3 This Website Using Html, Css and JavaScript, With a beautiful user interface. It contains a Header, Home, About, Skills, Gallery and Contact....</h3>
 <br>
 
 ## [View Demo](https://prashantsingh20.github.io/My-Personal-Website/)
@@ -39,12 +39,6 @@ If you have any crazy idea then please pull request...
 
 [![Follower](https://img.shields.io/github/followers/prashantsingh20?style=social)](https://github.com/prashantsingh20)
  <hr>
- <p float="left">
-
-[![ForTheBadge built-with-love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/prashantsingh20)
-[ ![ForTheBadge makes-people-smile](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/prashantsingh20)
-
-</p>
 
 [![alttext](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prashantsingh20)
 ![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)
